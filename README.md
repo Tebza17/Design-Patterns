@@ -150,3 +150,12 @@ In plain words
 Wikipedia says
 > In software engineering, the composite pattern is a partitioning design pattern. The composite pattern describes that a group of objects is to be treated in the same way as a single instance of an object. The intent of a composite is to "compose" objects into tree structures to represent part-whole hierarchies. Implementing the composite pattern lets clients treat individual objects and compositions uniformly.
 
+Decorator
+-------------
+
+In plain words
+> Decorator pattern lets you dynamically change the behavior of an object at run time by wrapping them in an object of a decorator class.
+
+Wikipedia says
+> In object-oriented programming, the decorator pattern is a design pattern that allows behavior to be added to an individual object, either statically or dynamically, without affecting the behavior of other objects from the same class. The decorator pattern is often useful for adhering to the Single Responsibility Principle, as it allows functionality to be divided between classes with unique areas of concern.
+
