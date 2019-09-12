@@ -61,3 +61,16 @@ Wikipedia says
 **When to use?**
 
 Useful when there is some generic processing in a class but the required sub-class is dynamically decided at runtime. Or putting it in other words, when the client doesn't know what exact sub-class it might need.
+
+Abstract Factory
+----------------
+In plain words
+> A factory of factories; a factory that groups the individual but related/dependent factories together without specifying their concrete classes.
+
+Wikipedia says
+> The abstract factory pattern provides a way to encapsulate a group of individual factories that have a common theme without specifying their concrete classes
+
+**When to use?**
+
+When there are interrelated dependencies with not-that-simple creation logic involved
+
