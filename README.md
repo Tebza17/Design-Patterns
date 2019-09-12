@@ -235,3 +235,13 @@ In plain words
 Wikipedia says
 > In software engineering, the mediator pattern defines an object that encapsulates how a set of objects interact. This pattern is considered to be a behavioral pattern due to the way it can alter the program's running behavior.
 
+Memento
+-------
+In plain words
+> Memento pattern is about capturing and storing the current state of an object in a manner that it can be restored later on in a smooth manner.
+
+Wikipedia says
+> The memento pattern is a software design pattern that provides the ability to restore an object to its previous state (undo via rollback).
+
+Usually useful when you need to provide some sort of undo functionality.
+
