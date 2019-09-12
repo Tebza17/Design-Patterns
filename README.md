@@ -110,3 +110,10 @@ Wikipedia says
 
 Singleton pattern is actually considered an anti-pattern and overuse of it should be avoided. It is not necessarily bad and could have some valid use-cases but should be used with caution because it introduces a global state in your application and change to it in one place could affect in the other areas and it could become pretty difficult to debug. The other bad thing about them is it makes your code tightly coupled plus mocking the singleton could be difficult.
 
+Structural Design Patterns
+==========================
+In plain words
+> Structural patterns are mostly concerned with object composition or in other words how the entities can use each other. Or yet another explanation would be, they help in answering "How to build a software component?"
+
+Wikipedia says
+> In software engineering, structural design patterns are design patterns that ease the design by identifying a simple way to realize relationships between entities.
