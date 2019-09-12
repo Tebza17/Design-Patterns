@@ -245,3 +245,11 @@ Wikipedia says
 
 Usually useful when you need to provide some sort of undo functionality.
 
+Observer
+--------
+In plain words
+> Defines a dependency between objects so that whenever an object changes its state, all its dependents are notified.
+
+Wikipedia says
+> The observer pattern is a software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.
+
