@@ -14,3 +14,10 @@ Be Careful
 - Do not try to force them; bad things are supposed to happen, if done so. 
 - Keep in mind that design patterns are solutions **to** problems, not solutions **finding** problems; so don't overthink.
 - If used in a correct place in a correct manner, they can prove to be a savior; or else they can result in a horrible mess of a code.
+
+Types of Design Patterns
+-----------------
+
+* [Creational](#creational-design-patterns)
+* [Structural](#structural-design-patterns)
+* [Behavioral](#behavioral-design-patterns)
