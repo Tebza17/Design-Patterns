@@ -202,3 +202,12 @@ Wikipedia says
 * [Strategy](#-strategy)
 * [State](#-state)
 * [Template Method](#-template-method)
+
+Chain of Responsibility
+-----------------------
+In plain words
+> It helps building a chain of objects. Request enters from one end and keeps going from object to object till it finds the suitable handler.
+
+Wikipedia says
+> In object-oriented design, the chain-of-responsibility pattern is a design pattern consisting of a source of command objects and a series of processing objects. Each processing object contains logic that defines the types of command objects that it can handle; the rest are passed to the next processing object in the chain.
+
