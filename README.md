@@ -142,3 +142,11 @@ In Plain Words
 Wikipedia says
 > The bridge pattern is a design pattern used in software engineering that is meant to "decouple an abstraction from its implementation so that the two can vary independently"
 
+Composite
+-----------------
+In plain words
+> Composite pattern lets clients treat the individual objects in a uniform manner.
+
+Wikipedia says
+> In software engineering, the composite pattern is a partitioning design pattern. The composite pattern describes that a group of objects is to be treated in the same way as a single instance of an object. The intent of a composite is to "compose" objects into tree structures to represent part-whole hierarchies. Implementing the composite pattern lets clients treat individual objects and compositions uniformly.
+
