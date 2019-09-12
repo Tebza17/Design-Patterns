@@ -159,3 +159,11 @@ In plain words
 Wikipedia says
 > In object-oriented programming, the decorator pattern is a design pattern that allows behavior to be added to an individual object, either statically or dynamically, without affecting the behavior of other objects from the same class. The decorator pattern is often useful for adhering to the Single Responsibility Principle, as it allows functionality to be divided between classes with unique areas of concern.
 
+Facade
+----------------
+In plain words
+> Facade pattern provides a simplified interface to a complex subsystem.
+
+Wikipedia says
+> A facade is an object that provides a simplified interface to a larger body of code, such as a class library.
+
